@@ -2,10 +2,6 @@
 
 ### 🚀 PARTE 1 — TREINAMENTO
 
-## 🎯 Objetivo
-
-Treinar modelos YOLO (YOLOv5) usando **MindSpore 2.6 em CPU**, com ambiente estável e reproduzível.
-
 ---
 
 ## 🧱 Requisitos
