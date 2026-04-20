@@ -1,7 +1,5 @@
 # 🚀 Treinamento Modelo de IA com MindSpore (CPU)
 
-### 🚀 PARTE 1 — TREINAMENTO
-
 ---
 
 ## 🧱 Requisitos
