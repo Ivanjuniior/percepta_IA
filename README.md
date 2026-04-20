@@ -1,0 +1,2 @@
+# percepta_IA
+MODELO DE IA PERCEPTA
