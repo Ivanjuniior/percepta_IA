@@ -10,18 +10,17 @@ Treinar modelos YOLO (YOLOv5) usando **MindSpore 2.6 em CPU**, com ambiente est�
 
 ## 🧱 Requisitos
 
-- Linux (Ubuntu / Pop_OS recomendado)
+- Linux (Debian12/ Ubuntu 24.04)
 - Python **3.10**
-- CPU (não precisa GPU)
-- Git instalado
+- CPU
 
 ---
 
 ## ⚙️ 1. Criar ambiente virtual
 
 ```bash
-python3.10 -m venv ~/ms26
-source ~/ms26/bin/activate
+python3.10 -m venv ~/percepta
+source ~/percepta/bin/activate
 pip install --upgrade pip
 ```
 
@@ -73,6 +72,11 @@ dataset/
  ├── train.txt
  ├── val.txt
 ```
+## 📁 5.1. Download do Dataset
+```
+https://drive.google.com/file/d/1q-o-TEWubit3msdnpfrKLhX4IcG_uJcw/view?usp=sharing
+```
+
 ## 📝 6. Configurar Dataset
 Editar arquivo:
 ```
